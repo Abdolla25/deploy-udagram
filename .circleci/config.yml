@@ -12,16 +12,16 @@ jobs:
       - run:
           name: Front-End Install
           command: |
-            npm run frontend:install
+            cd udagram-frontend && npm install
       - run:
           name: Back-End Install
           command: |
-            npm run backend:install
+            cd udagram-api && npm install
       - run:
           name: Front-End Build
           command: |
-            npm run frontend:build
+            cd udagram-frontend && npm run build
       - run:
           name: Back-End Build
           command: |
-            npm run backend:build
+            cd udagram-api && npm run build
