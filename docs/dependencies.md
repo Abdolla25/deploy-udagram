@@ -7,6 +7,7 @@ In this project, we have deployed a stater code/project provided from udacity.
 ## Frontend App
 
 The frontend app was developed using the famous framework Angular.
+
 ![angular-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png)
 
 let's dive into the project components:
@@ -30,6 +31,7 @@ let's dive into the project components:
 ## Backend App
 
 The backend API app for this project was developed using Express.js.
+
 ![express-logo](https://expressjs.com/images/express-facebook-share.png)
 
 let's dive into the project components:
