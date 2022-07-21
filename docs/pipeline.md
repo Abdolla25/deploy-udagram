@@ -4,6 +4,10 @@ In this project using circleci to automate the process of deployment effectively
 
 ![circleci-logo](https://d3r49iyjzglexf.cloudfront.net/circleci-logo-stacked-fb-657e221fda1646a7e652c09c9fbfb2b0feb5d710089bb4d8e8c759d37a832694.png)
 
+### Pipeline Explaination
+
+![pipeline](img/pipeline.drawio.png)
+
 ## Continuous Integration | CI
 
 Continuous integration is a group of many steps in our pipeline.
@@ -33,4 +37,5 @@ Continuous delivery or continuous deployment are both steps that we refer to whe
 circleci provides a good way to pass secret information, here's an example of `Environment Variables`:
 
 ![circleci](img/circleci.png)
+![circleci](img/circleci-2.png)
 
