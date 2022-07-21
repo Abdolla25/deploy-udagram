@@ -9,3 +9,15 @@ in this diagram you will find a simple explaination of the whole process
 
 another diagram from using similar services [AWS Website](https://aws.amazon.com/ar/getting-started/hands-on/deploy-nodejs-web-app/)
 ![aws-diagran](https://d1.awsstatic.com/Projects/V445874/arch-diagram_nodejs-app.4c8966fcddcba4e101b955905cf88d99d4c9dcd5.png)
+
+### Relational Database Service | RDS
+
+![rds](img/rds.png)
+
+### Simple Storage Service | S3
+
+![s3](img/s3.png)
+
+### Elastic Beanstalk | EB
+
+![eb](img/eb.png)

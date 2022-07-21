@@ -27,6 +27,10 @@ This project is a compination of two applications using angular and express.
 
 ### Pipeline Process
 
+In this project we have used CI/CD integration that triggers automaticly by GitHub using circleci.
+
+follow this [Link](docs/pipeline.md) for more information.
+
 ### Installation
 
 Provision the necessary AWS services needed for running the application:
