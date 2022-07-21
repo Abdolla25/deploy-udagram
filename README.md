@@ -4,6 +4,10 @@ This application is provided to you as an alternative starter project if you do 
 
 ### Project Infrastructure
 
+This project is a compination of two applications using angular and express.
+
+#### For more details and diagrams follow this [Link](docs/infrastructure.md).
+
 ### Main Project Dependencies
 
 ```
@@ -19,7 +23,7 @@ This application is provided to you as an alternative starter project if you do 
 
 ```
 
-#### for more information about frontend and api dependencies use this [Link](docs/dependencies.md)
+#### For more information about frontend and backend dependencies use this [Link](docs/dependencies.md).
 
 ### Pipeline Process
 
