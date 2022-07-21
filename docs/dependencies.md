@@ -2,6 +2,8 @@
 
 In this project, we have deployed a stater code/project provided from udacity.
 
+---
+
 ## Frontend App
 
 The frontend app was developed using the famous framework Angular.
@@ -22,3 +24,26 @@ let's dive into the project components:
 - `Jasmine`: Jasmine is an open-source testing framework for JavaScript.
 - `Karma`: Karma is a test runner for JavaScript that runs on Node.js, It is very well suited to testing AngularJS or any other JavaScript projects.
 - `Protractor`: Protractor is an end-to-end test framework for Angular and AngularJS applications.
+
+---
+
+## Backend App
+
+The backend API app for this project was developed using Express.js.
+![express-logo](https://expressjs.com/images/express-facebook-share.png)
+
+let's dive into the project components:
+
+### Main project dependencies
+- `Express.js`: Express.js, or simply Express, is a back end web application framework for Node.js.
+- `Bcrypt`: This module enables storing of passwords as hashed passwords instead of plaintext.
+- `dotenv`: Loads environment variables from .env file.
+- `email-validator`: Provides a fast, pretty robust e-mail validator.
+- `jsonwebtoken`: JSON Web Token implementation.
+- `pg`: PostgreSQL client - pure javascript & libpq with the same API.
+- `Sequelize`: Sequelize is a modern TypeScript and Node. js ORM for Postgres, MySQL, MariaDB, SQLite and SQL Server, and more.
+
+### Development dependencies
+- `Chai`: BDD/TDD assertion library for node.js and the browser. Test framework agnostic.
+- `ESLint`: An AST-based pattern checker for JavaScript.
+- `Mocha`: Simple, flexible, fun test framework
