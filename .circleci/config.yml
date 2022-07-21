@@ -51,6 +51,7 @@ jobs:
     steps:
       - node/install:
           node-version: '16.13.2' 
+          install-yarn: true
       - eb/setup
       - aws-cli/setup
       - checkout
