@@ -33,11 +33,6 @@ jobs:
             echo "NPM --version" 
             echo $(npm --version)
             npm run api:install
-      # TODO: Lint the frontend
-      - run:
-          name: Front-End Lint
-          command: |
-            npm run frontend:lint
       # TODO: Build the frontend app
       - run:
           name: Front-End Build
@@ -63,7 +58,7 @@ jobs:
           name: Deploy App
           # TODO: Install, build, deploy in both apps
           command: |
-            echo "# TODO: Install, build, deploy in both apps"
+            npm run deploy
             
 workflows:
   udagram:
