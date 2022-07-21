@@ -59,6 +59,7 @@ jobs:
           name: Deploy App
           # TODO: Install, build, deploy in both apps
           command: |
+            npm install -g @angular/cli@latest
             npm run deploy
             
 workflows:
